@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "istanbul cover _mocha test/bootstrap.test test/**/*"
+    "test": "istanbul cover _mocha test/bootstrap.test test/unit/"
   },
   "author": "",
   "license": "ISC",
