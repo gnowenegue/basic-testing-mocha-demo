@@ -14,6 +14,8 @@ module.exports = {
         }
 
         return false;
+
+        // can refactor this function to return value > 10
     }
 
 };
